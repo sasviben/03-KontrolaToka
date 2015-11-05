@@ -17,7 +17,7 @@ namespace Vsite.CSharp
 
                 // TODO: ako je broj paran, ne dodaje se (tj. treba se vratiti na početak petlje)
 
-
+               // if() continue
                 // TODO: ako je broj dijeljiv s 12, tada treba prekinuti petlju
 
 
