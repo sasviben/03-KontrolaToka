@@ -1,1 +1,15 @@
-﻿
+﻿1. pokusaj: 3
+2. pokusaj: 4
+3. pokusaj: 1
+4. pokusaj: 3
+5. pokusaj: 3
+6. pokusaj: 4
+7. pokusaj: 3
+8. pokusaj: 3
+9. pokusaj: 3
+10. pokusaj: 2
+11. pokusaj: 6
+11 + 1
+12 + 3
+Zbroj = 15
+
