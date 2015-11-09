@@ -1,1 +1,42 @@
-﻿
+﻿//prvo pokretanje
+
+Niz obilazimo foreach: 6045
+Niz obilazimo for:     6234
+Listu obilazimo for:     11131
+Listu obilazimo foreach: 5612
+
+//drugo pokretanje
+
+Niz obilazimo foreach: 3182
+Niz obilazimo for:     3895
+Listu obilazimo for:     6173
+Listu obilazimo foreach: 3544
+
+//trece pokretanje
+
+Niz obilazimo foreach: 2306
+Niz obilazimo for:     2900
+Listu obilazimo for:     4030
+Listu obilazimo foreach: 2868
+
+//cetvrto pokretanje
+
+Niz obilazimo foreach: 2301
+Niz obilazimo for:     2899
+Listu obilazimo for:     4040
+Listu obilazimo foreach: 2640
+
+//peto pokretanje
+
+Niz obilazimo foreach: 3022
+Niz obilazimo for:     3793
+Listu obilazimo for:     5273
+Listu obilazimo foreach: 3370
+
+
+
+
+
+
+
+
